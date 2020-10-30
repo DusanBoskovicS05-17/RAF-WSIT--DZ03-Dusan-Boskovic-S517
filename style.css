@@ -10,20 +10,20 @@ body {
   height: 100vh;
   width: 50%;
   margin: auto;
-  border-radius: 15px;
+ 
 }
 
 .header {
-  background-color: #3287af;
-  border-radius: 10px;
+  background-color: #79af32;
+  
 }
 
 .sadrzaj {
-  background-color: #9aaebb;
+  background-color: #9180a7;
   height: 86%;
   width: 100%;
   margin-top: 10px;
-  border-radius: 10px;
+ 
 }
 
 .menu {
@@ -56,10 +56,10 @@ li a:hover {
 }
 
 .footer {
-  background-color: #3287af;
+  background-color: #386a81;
   width: 100%;
   height: 80px;
-  border-radius: 10px;
+  
   margin-bottom: 5px;
   margin-top: -10px;
 }
@@ -138,7 +138,7 @@ li a:hover {
 .centar {
   width: 45%;
   height: 100%;
-  background-color: #70bce7;
+  background-color: #9a70e7;
   display: inline-block;
   border-right: 2px solid black;
 }
